@@ -1,0 +1,29 @@
+{
+  "name": "jquery_test",
+  "version": "1.0.0",
+  "description": "A test of webpack with JQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "JQuery",
+    "webpack",
+    "lodash"
+  ],
+  "author": "Javier Ruedas",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "eslint": "^4.19.1",
+    "eslint-loader": "^2.0.0",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.3"
+  }
+}
